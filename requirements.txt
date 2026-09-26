@@ -1,0 +1,3 @@
+# Calidad de código y pruebas (Dev tools)
+pytest
+ruff
