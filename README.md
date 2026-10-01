@@ -19,7 +19,7 @@ A diferencia del formato tradicional basado en Jupyter Notebooks, todo el códig
 | ↳ *MS-2* | *Milestone Project 2: Blackjack Game* | ⏳ Pendiente | [02_blackjack](./00_milestone_projects/02_blackjack) |
 | **01** | Python Object & Data Structure Basics |  Completado | [01_python_objects/src](./01_python_objects/src) |
 | **02** | Python Comparison Operators |  Completado | [02_comparison_operators/src](./02_comparison_operators/src) |
-| **03** | Python Statements (if/elif/else, for, while) | 🔄 En curso | [03_python_statements/src](./03_python_statements/src) |
+| **03** | Python Statements (if/elif/else, for, while) | Completado | [03_python_statements/src](./03_python_statements/src) |
 | **04** | Methods and Functions | ⏳ Pendiente | [04_methods_and_functions/src](./04_methods_and_functions/src) |
 | **05** | Object Oriented Programming (OOP) | ⏳ Pendiente | [05_object_oriented_programming/src](./05_object_oriented_programming/src) |
 | **06** | Modules and Packages | ⏳ Pendiente | [06_modules_and_packages/src](./06_modules_and_packages/src) |
