@@ -14,11 +14,12 @@ A diferencia del formato tradicional basado en Jupyter Notebooks, todo el códig
 
 | Sección | Módulo / Tema | Estado | Entregables / Código Fuente |
 | :---: | :--- | :---: | :--- |
-| **MS-1** | **Milestone Project 1: Tic Tac Toe Game** | ⏳ Pendiente | [01_tic_tac_toe](./00_milestone_projects/01_tic_tac_toe) |
-| **MS-2** | **Milestone Project 2: Blackjack Game** | ⏳ Pendiente | [02_blackjack](./00_milestone_projects/02_blackjack) |
+| **00** | **Milestone Projects (Capstone)** | 🔄 En curso | [00_milestone_projects](./00_milestone_projects) |
+| ↳ *MS-1* | *Milestone Project 1: Tic Tac Toe Game* | ⏳ Pendiente | [01_tic_tac_toe](./00_milestone_projects/01_tic_tac_toe) |
+| ↳ *MS-2* | *Milestone Project 2: Blackjack Game* | ⏳ Pendiente | [02_blackjack](./00_milestone_projects/02_blackjack) |
 | **01** | Python Object & Data Structure Basics |  Completado | [01_python_objects/src](./01_python_objects/src) |
-| **02** | Python Comparison Operators | Completado | [02_comparison_operators/src](./02_comparison_operators/src) |
-| **03** | Python Statements (if/elif/else, for, while) | ⏳ Pendiente | [03_python_statements/src](./03_python_statements/src) |
+| **02** | Python Comparison Operators |  Completado | [02_comparison_operators/src](./02_comparison_operators/src) |
+| **03** | Python Statements (if/elif/else, for, while) | 🔄 En curso | [03_python_statements/src](./03_python_statements/src) |
 | **04** | Methods and Functions | ⏳ Pendiente | [04_methods_and_functions/src](./04_methods_and_functions/src) |
 | **05** | Object Oriented Programming (OOP) | ⏳ Pendiente | [05_object_oriented_programming/src](./05_object_oriented_programming/src) |
 | **06** | Modules and Packages | ⏳ Pendiente | [06_modules_and_packages/src](./06_modules_and_packages/src) |
@@ -35,12 +36,14 @@ A diferencia del formato tradicional basado en Jupyter Notebooks, todo el códig
 
 ```text
 python-bootcamp-roadmap/
-├── 00_milestone_projects/      # Proyectos integradores completos (Capstone Projects)
-├── 01_python_objects/          # Tipos de datos básicos (Numbers, Strings, Lists, Dicts)
-├── 02_comparison_operators/    # Operadores lógicos y de comparación
-├── 03_python_statements/       # Estructuras de control de flujo
-├── 04_methods_and_functions/   # Funciones, args/kwargs, lambda, map, filter
-├── 05_object_oriented_programming/  # POO: Clases, Herencia y Métodos Especiales
-├── ...                         # Módulos avanzados
-├── requirements.txt            # Dependencias del proyecto
-└── README.md                   # Dashboard principal
+├── 00_milestone_projects/         # Proyectos integradores de fin de etapa
+│   ├── 01_tic_tac_toe/
+│   └── 02_blackjack/
+├── 01_python_objects/             # Tipos de datos básicos (Numbers, Strings, Lists, Dicts)
+├── 02_comparison_operators/       # Operadores lógicos y de comparación
+├── 03_python_statements/          # Estructuras de control de flujo (if, for, while)
+├── 04_methods_and_functions/      # Funciones, args/kwargs, lambda, map, filter
+├── 05_object_oriented_programming/ # POO: Clases, Herencia y Métodos Especiales
+├── ...                            # Módulos avanzados
+├── requirements.txt               # Dependencias del proyecto
+└── README.md                      # Dashboard principal
